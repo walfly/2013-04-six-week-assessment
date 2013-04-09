@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Tasks.js",
+  "sourceRoot": "..",
+  "sources": [
+    "coffee/Tasks.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,GAAA,EAAA;KAAA;oSAAA;;CAAA,CAAM,IAAM;CAEV;;;;;CAAA;;CAAA,EAAO,CAAP,CAAA;;CAAA,EAEgB,MAAA,KAAhB;;CAFA,EAMiB,MAAA,MAAjB;;CANA;;CAFyB,OAAQ;CAAnC"
+}

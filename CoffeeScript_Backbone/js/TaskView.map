@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "TaskView.js",
+  "sourceRoot": "..",
+  "sources": [
+    "coffee/TaskView.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,GAAA,EAAA;KAAA;oSAAA;;CAAA,CAAM,IAAM;CAEV;;;;;CAAA;;CAAA,EAAU,KAAV,8BAAA;;CAAA,EAEQ,GAAR,GAAQ;CACN,GAAG,CAAM,CAAT,UAAA;CAAgC,EAAI,CAAH,IAAD,KAAA;QAAhC;CACC,EAAG,CAAH,CAAyB,GAAhB,EAAA,GAAV;CAJF,IAEQ;;CAFR;;CAF4B,OAAQ;CAAtC"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "taskData.js",
+  "sourceRoot": "..",
+  "sources": [
+    "coffee/taskData.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CAAkB,GAAZ,EAAN;KACE;CAAA,CACS,GAAP,CAAA,UADF;EAGA,IAJgB;CAIhB,CACS,GAAP,CAAA,SADF;EAGA,IAPgB;CAOhB,CACS,GAAP,CAAA,MADF;EAGA,IAVgB;CAUhB,CACS,GAAP,CAAA,KADF;MAVgB;CAAlB,GAAA;CAAA"
+}
