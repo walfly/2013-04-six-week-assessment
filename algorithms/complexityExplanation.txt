@@ -1,2 +1,4 @@
-Please delete me & write your explanation...
+Algorithmic complexity is expressed as an equation describing the number of operations 
+required to complete the algorithm. Linear complexity means the number of operations varies
+directly with the size of the input, constant complexity means the number of operations does not vary, etc.
 
