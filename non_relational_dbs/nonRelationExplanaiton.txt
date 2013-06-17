@@ -1,1 +1,5 @@
-Please delete this and write your explanation ...
+Relational databases allow for constant time look ups between multiple tables using
+defined table structures.  They are ridgid and it require very intense computations to 
+add new migrations to large databases if you need to keep track of new data.  non relational
+databases have no set structure so they can be modified on the fly but accessing your data
+does not happen in constant time. 

@@ -1,1 +1,3 @@
 Write your INSERT query here
+
+INSERT INTO users (name, age, location) VALUES (walker, 24, San Francisco)
