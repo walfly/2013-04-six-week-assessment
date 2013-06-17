@@ -16,5 +16,14 @@ var tweet = {
 };
 
 // Write your GET request here
-
+$.ajax({
+	url: url,
+	type: "GET",
+	dataType: "text/json"
+})
 // Write your POST request here
+$.ajax({
+	url: url,
+	type: "POST",
+	data = tweet
+})
